@@ -29,7 +29,7 @@ Vogelpothsweg 76 \
 44227 Dortmund
 
 Tel. : +49 231-755 40 36 \
-Fax : +49 231-755 40 32 \
+Fax : +49 231-755 40 32
 
 daten.ub@tu-dortmund.de \
 https://www.ub.tu-dortmund.de
